@@ -2,6 +2,21 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
 img {
     width: 400px;
+}
+
+input {
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.buttons {
+    display: flex;
 }
