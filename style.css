@@ -8,17 +8,22 @@ body {
 }
 
 .logo-img {
+    margin-top: 120px;
     width: 400px;
 }
 
 .text-input {
     display: block;
     width: 500px;
-    margin: 0 auto;
+    margin: 25px auto;
 }
 
 .buttons {
     display: flex;
     margin: 0 auto;
     display: block;
+}
+
+.btn {
+    margin: 0 12px;
 }
