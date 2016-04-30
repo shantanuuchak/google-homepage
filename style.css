@@ -26,4 +26,7 @@ body {
 
 .btn {
     margin: 0 12px;
+    background: #eee;
+    border: none;
+    font-family: 14px;
 }
