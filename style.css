@@ -30,4 +30,5 @@ body {
     border: none;
     font-family: 14px;
     font-weight: bold;
+    cursor: pointer;
 }
