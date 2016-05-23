@@ -25,16 +25,16 @@ body {
 
 .buttons {
     display: flex;
-    margin: 0 auto;
-    display: block;
+    justify-content: center;
 }
 
 .btn {
-    margin: 0 12px;
-    background: #eee;
+    margin: 30px 4px 0;
+    background: #dfe1df;
     border: none;
     font-family: 14px;
     font-weight: bold;
     cursor: pointer;
-    padding: 4px 8px;
+    border-radius: 4px;
+    padding: 8px 16px;
 }
